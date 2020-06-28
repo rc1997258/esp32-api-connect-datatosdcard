@@ -1,6 +1,8 @@
 # esp32-api-connect-datatosdcard
 This project uses a esp32 IDF code to connect to api as an html client and download the data to sd card, and search the data in sd card like student roll number with their ID tag number
 
+This project is done on Visual Code Studio with Platformio extension and ESP-IDF tools
+
 The task of this project is given as below:
 
 Task details:
